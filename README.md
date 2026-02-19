@@ -1,1 +1,1 @@
-# Bhanu-Prakash-Reddy
+# BhanuPrakashReddy
