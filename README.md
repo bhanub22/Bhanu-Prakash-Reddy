@@ -1,15 +1,15 @@
 # Hi, I'm Bhanu Prakash Reddy 👋
 
-🎯 Aspiring Data Analyst | AI & Machine Learning Enthusiast  
+🎯 Aspiring Data Analyst| Building AI-model's | AI & Machine Learning Enthusiast  
 📍 India  
 
 ---
 
 ## 👨‍💻 About Me
-I am passionate about Data Analysis, Artificial Intelligence, and Big Data. 
-Currently learning Pandas, NumPy, and Matplotlib to build strong analytical skills.
+I am passionate about Data Analysis, Artificial Intelligence, and Big Data and training the ai with llm's. 
+Currently working with  Ai-model building and train it with  LLM's ,Big data analysis, Pandas and Matplotlib to build strong analytical skills and to build AI-Models.
 
-I enjoy solving real-world problems using data-driven insights.
+I enjoy solving real-world problems using data-driven insights and marketing with strong ai marketing techniques by using ai models .
 
 ---
 
@@ -18,9 +18,14 @@ I enjoy solving real-world problems using data-driven insights.
 - Pandas
 - NumPy
 - Matplotlib
+- Building AI-Models
+- working with LLM's
+- Big Data
 - Data Cleaning
+- Data Analysis
 - Exploratory Data Analysis (EDA)
-- SQL (Basics)
+- SQL
+- MongoDB
 
 ---
 
